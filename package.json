@@ -5,6 +5,7 @@
   "main": "lib/react-currency-input.cjs.js",
   "jsnext:main": "lib/react-currency-input.es.js",
   "module": "lib/react-currency-input.es.js",
+  "react-currency-input": "https://github.com/USER/REPO/tarball/SHA",
   "scripts": {
     "lint": "eslint src/**",
     "build:umd": "cross-env NODE_ENV=umd rollup -c",
@@ -19,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jsillitoe/react-currency-input.git"
+    "url": "git+https://github.com/alcidesbsilvaneto/react-currency-input.git"
   },
   "keywords": [
     "react",
